@@ -1,16 +1,13 @@
-## Hi there 👋
+# Muhammad Uzair
 
-<!--
-**UzairRazzaq/UzairRazzaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laravel full-stack engineer in Lahore. Legal and B2B SaaS.
 
-Here are some ideas to get you started:
+I built OnRegle (Quebec legal automation) and stayed through the Edilex acquisition to scale it as Oprio, then shipped immigration SaaS at EntryChampions. Most of that code is private — look at the work history, not this GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Target work:** Laravel / PHP product roles in legal tech and B2B SaaS, contract or full-time, remote.
+
+- Portfolio: https://www.uzairrazzaq.com/
+- LinkedIn: https://www.linkedin.com/in/uzairrazzaq/
+- Email: m.uzairrazzaq@gmail.com
+
+**Stack:** Laravel, PHP, Next.js, React, Angular, Vue, TypeScript, PostgreSQL/Supabase, MySQL, Vercel, DigitalOcean, AWS.
